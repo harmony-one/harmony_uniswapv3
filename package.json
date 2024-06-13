@@ -1,8 +1,8 @@
 {
-  "name": "hmy_gain",
+  "name": "harmony_uniswapv3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "01_deployContracts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
